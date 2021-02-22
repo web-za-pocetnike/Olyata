@@ -405,11 +405,9 @@ section article div div p {
   align-items: center;
 }
 #imgSlide2 {
-  object-fit: fill;
-  width: 40%;
+  width: 50%;
   /* vertical-align: middle; */
-  height: 40rem;
-
+  height: 44rem;
   min-width: 19rem;
   display: block;
   margin-left: auto;
